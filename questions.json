@@ -1,0 +1,25 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "What is the capital of France?",
+      "choices": ["Berlin", "Paris", "Madrid", "Rome"],
+      "correct": 1,
+      "difficulty": "easy",
+      "topic": "geography",
+      "tags": ["Europe", "capitals"],
+      "explanation": "Paris is the capital city of France."
+    },
+    {
+      "id": 2,
+      "type": "short",
+      "question": "Name the process plants use to convert sunlight into chemical energy.",
+      "answer": "photosynthesis",
+      "difficulty": "medium",
+      "topic": "biology",
+      "tags": ["plants", "energy"],
+      "explanation": "Plants harness light to produce sugar and oxygen in photosynthesis."
+    }
+  ]
+}
